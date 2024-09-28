@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabahatzainab&label=Profile%20views&color=0e75b6&style=flat" alt="sabahatzainab" /> </p>
 
-- 🔭 I’m currently working on [Laravel Projects](https://gitlab.com/adeeb_qambrani0312/School-Management)
+- 🔭 I’m currently working on [MERN Projects-Job Portal](https://github.com/SabahatZainab/Job_Portal_Mern)
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SabahatZainab](https://github.com/SabahatZainab)
 
